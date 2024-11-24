@@ -13,7 +13,6 @@ npm install
 Alternatively, you can use yarn or pnpm for dependency management:
 
 yarn install
-# or
 pnpm install
 
 3. Run the Development Server
@@ -22,7 +21,6 @@ npm run dev
 
 If you're using yarn or pnpm, use the respective commands:
 yarn dev
-# or
 pnpm dev
 
 4. View the Application
